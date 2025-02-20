@@ -1,4 +1,3 @@
-import art
 def add(n1, n2):
     return n1 + n2
 def subtract(n1,n2):
@@ -12,7 +11,6 @@ operations={"+":add,"-":subtract,"*":multiply,"/":divide,}
 
 # print(operations["*"](4,8))
 def calculator():
-    print(art.logo)     #so that logo is printed each time
     stop_calc=False
     first_num = float(input("Enter the first number\n"))
     while not stop_calc:
