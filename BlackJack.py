@@ -1,6 +1,4 @@
 import random
-import art
-
 def deal_card():
     deck = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     card=random.choice(deck)
@@ -31,7 +29,6 @@ def compare(dealer_score,user_score):
         print("You Lose")
 
 def blackjack():
-    print(art.logo)
     user_cards=[]
     dealer_cards=[]
     game_over=False
