@@ -1,5 +1,6 @@
 import random
 import hangman_words
+import hangman_art
 
 print(hangman_art.logo)
 
@@ -44,8 +45,11 @@ while not game_over:
         if lives == 0:
             game_over = True
             print(f"***********************YOU LOSE**********************")
-            print(f"The word was {chosen_word}")
+            print(f"The word was {chosen_word}"
 
     if "_" not in display:
         game_over = True
         print("****************************YOU WIN****************************")
+
+
+    print(hangman_art.stages[lives])
