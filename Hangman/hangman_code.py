@@ -4,7 +4,6 @@ import hangman_words
 print(hangman_art.logo)
 
 chosen_word = random.choice(hangman_words.word_list)
-print(chosen_word)
 
 lives = 6
 
