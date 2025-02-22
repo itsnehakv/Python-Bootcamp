@@ -26,8 +26,6 @@ def higher_or_lower():
         while person1==person2:
             person2=random.choice(data)
         print(f"Compare A: {printing_state(person1)}")
-        print(person1)
-        print(person2)
         print(art.vs)
         print(f"Against B: {printing_state(person2)}")
         choice = input("Who has more followers? Type 'A' or 'B': \n").upper()
