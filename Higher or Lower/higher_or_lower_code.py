@@ -19,7 +19,7 @@ def higher_or_lower():
     print(art.logo)
     game_over=False
     score=0
-    person2 = random.choice(data) #only for first iteration. other all person1=person2
+    person2 = random.choice(data) #only for first iteration. other all person2 will be person1
     while not game_over:
         person1=person2
         person2 = random.choice(data)
