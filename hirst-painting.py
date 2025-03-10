@@ -2,7 +2,7 @@ import random
 import turtle as t
 import turtle
 
-import colorgram
+import colorgram #package to be installed
 extracted_colors=[]
 colors=colorgram.extract('image.jpg',30)
 for color in colors:
