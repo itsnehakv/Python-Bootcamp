@@ -17,11 +17,18 @@ game_is_on = True
 while game_is_on:
     time.sleep(0.1)
     screen.update()
-    car.creation()
-    car.movement()
+    car.creation_right()
+    car.creation_left()
+    car.movement_left()
+    car.movement_right()
 
-    for cars in car.OUR_CARS:
-        if player.distance(cars)<20:
+    for cars in car.OUR_CARS_right:
+        if player.distance(cars)<23:
+            score.when_game_over()
+            game_is_on=False
+
+    for cars in car.OUR_CARS_left:
+        if player.distance(cars)<23:
             score.when_game_over()
             game_is_on=False
 
@@ -29,7 +36,6 @@ while game_is_on:
         score.level_up()
         player.at_finish_line()
         car.increasing()
-
 
 
 screen.exitonclick()
