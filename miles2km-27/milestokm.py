@@ -1,3 +1,4 @@
+#did it ALLL by myself!
 from tkinter import *
 
 window=Tk()
