@@ -19,4 +19,5 @@ https://opentdb.com/api.php?amount=10&category=16&difficulty=easy&type=boolean
 the parameters differ with each API
 **cut till question mark
 **rest are parameters for requests
+**
 '''
