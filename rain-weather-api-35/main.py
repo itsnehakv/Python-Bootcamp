@@ -37,7 +37,7 @@ if will_it_rain:
     message = client.messages.create(
         from_="whatsapp:+14155238886",
         to="whatsapp:+919538999279",
-        body="Bring an umbrella ♡☂ "
+        body="Bring an umbrella ♡☂"
     )
     print(message.status)
 
