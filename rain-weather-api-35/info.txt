@@ -1,0 +1,2 @@
+u can set env var using edit config AND .env file
+COMBINATION of both can also be done in the same script

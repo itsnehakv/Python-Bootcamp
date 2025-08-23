@@ -36,8 +36,8 @@ if will_it_rain:
     client = Client(account_sid, auth_token)
 
     message = client.messages.create(
-        from_="whatsapp:+14155238886",
-        to="whatsapp:+919538999279",
+        from_=f"whatsapp:{os.environ["TWILIO_NUMBER"]}",
+        to=f"whatsapp:{os.environ["USER_NUMBER"]}",
         body="Bring an umbrella ♡☂ "
     )
     print(message.status)
