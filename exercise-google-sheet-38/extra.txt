@@ -1,0 +1,22 @@
+When using Sheety, your request body must match the exact schema it generates based on your sheet name —
+singular, not plural.
+
+If your sheet is named: workouts
+
+
+Sheety will generate an endpoint path like:
+
+https://api.sheety.co/your-id/myWorkouts/workouts
+
+
+But for the POST request payload, Sheety expects a singular key:
+
+{
+  "workout": {
+    "date": "24/08/2025",
+    "time": "12:34:56",
+    "exercise": "Running",
+    "duration": 30,
+    "calories": 250
+  }
+}
