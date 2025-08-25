@@ -2,9 +2,6 @@ import requests
 import os
 from datetime import datetime
 
-APP_ID="c894ba14"
-API_KEY="d6f3127b9bda678213e471ad8de6abae"
-
 WEIGHT=62
 HEIGHT=155
 AGE=19
