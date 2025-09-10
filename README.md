@@ -1,17 +1,13 @@
 ## Learning Python by Building Projects
-TBA🥲<br><br>
 This repository contains my solutions and projects from the 100 Days of Code: The Complete Python Pro Bootcamp course by [Dr. Angela Yu](https://github.com/angelabauer) on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  .<br>
-• This repository showcases my consistent learning efforts and reflects my dedication to mastering Python through hands-on, real-world projects. It highlights not only the technical skills I've developed, but also my discipline and curiosity.
+ <br>
+✼ This repository showcases my consistent learning efforts and reflects my dedication to mastering Python through hands-on, real-world projects. It highlights not only the technical skills I've developed, but also my discipline and curiosity.
 <br>
-• In addition to learning Python, this journey also helped me become comfortable with using Git and GitHub — including version control, branching and committing.
+✼ In addition to learning Python, this journey also helped me become comfortable with using Git and GitHub — including version control, branching and committing.
   <br>
-  I started this challenge to build a solid foundation in Python through real-world applications, to dedicate myself o consistent skill development and to document my growth.
-
-- 🚀 To build a solid Python foundation from scratch
-- 🧠 To understand core programming concepts and real-world applications
-- ⌛ To dedicate focused time (100 days) to consistent skill development
-- 📂 To document my growth and share my work publicly
+  <br>
+✷ I started this challenge to build a solid foundation in Python through real-world applications, to commit to consistent skill development, and to document my growth along the way.
  <br>
 
 
@@ -23,7 +19,7 @@ LANGUAGE:<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
-Tech Stack:<br> 
+Technologies Used:<br> 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
