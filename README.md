@@ -1,5 +1,24 @@
-## Python Projects
+## Learning Python by Building Project
 TBA🥲<br><br>
+This repository contains my solutions and projects from the 100 Days of Code: The Complete Python Pro Bootcamp course by [Dr. Angela Yu](https://github.com/angelabauer) on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+ .<br>
+• This repository showcases my consistent learning efforts and reflects my dedication to mastering Python through hands-on, real-world projects. It highlights not only the technical skills I've developed, but also the discipline and curiosity that drive my growth as a developer.
+<br>
+• In addition to learning Python, this journey also helped me become comfortable with using Git and GitHub — including version control, branching and committing.
+  
+## 🧭 Why I Started This Challenge
+
+- 🚀 To build a solid Python foundation from scratch
+- 🧠 To understand core programming concepts and real-world applications
+- ⌛ To dedicate focused time (100 days) to consistent skill development
+- 📂 To document my growth and share my work publicly
+ <br>
+
+
+ ## 🧠 Key Concepts Covered So Far
+ <br>
+
+I'm documenting my progress and learning journey as I go through each day of the course. The goal is to build 100 Python projects in 100 days, ranging from beginner to advanced level.
 LANGUAGE:<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
