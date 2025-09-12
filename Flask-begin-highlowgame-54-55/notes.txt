@@ -5,7 +5,7 @@ Flask uses __name__ to know the location of your app. It helps in:
 **Locating static files (like CSS, JS, images).
 **Locating templates (like index.html).
 **Useful when your app is imported from another file
-
+-------------------------------------------------
 ✅ __name__ — What It Returns in Python
 
 ##----Case 1: When the file is run directly----#
