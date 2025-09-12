@@ -1,0 +1,48 @@
+app=Flask(__name__)
+
+You are creating an app object (of the Flask class), which represents your web application.
+Flask uses __name__ to know the location of your app. It helps in:
+**Locating static files (like CSS, JS, images).
+**Locating templates (like index.html).
+**Useful when your app is imported from another file
+
+✅ __name__ — What It Returns in Python
+
+##----Case 1: When the file is run directly----#
+
+--> (bash) python my_app.py
+--> print(__name__)
+O/P
+'__main__'
+
+**This tells Python: "You're running this file as the main script."
+
+
+
+##----Case 2: When the file is imported from another module----#
+(in a file my_module.py)
+print(f"Running module.py directly or via import. __name__ = {__name__}")
+def greet():
+    print("Hello from module.py!")
+-----
+(in a file main.py)
+import module
+print(f"Inside main.py, __name__ = {__name__}")
+module.greet()
+-----
+
+--> (bash) python main.py
+
+O/P
+Running module.py directly or via import. __name__ = module        <----
+Inside main.py, __name__ = __main__
+Hello from module.py!
+
+**Because it is being imported, not run directly.
+
+
+(Run module.py directly)
+--->(bash) python module.py
+
+O/P
+Running module.py directly or via import. __name__ = __main__
