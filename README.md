@@ -2,7 +2,7 @@
 This repository contains my solutions and projects from the 100 Days of Code: The Complete Python Pro Bootcamp course by [Dr. Angela Yu](https://github.com/angelabauer) on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  .<br>
  <br>
-✼ This repository showcases my *consistent learning efforts* and reflects my dedication to mastering Python through hands-on, ***real-world projects***.It highlights not only the technical skills I've developed, but also my discipline and curiosity.
+✼ This repository showcases my *consistent learning efforts* and reflects my dedication to mastering Python through hands-on, ***real-world projects***. &nbsp;It highlights not only the technical skills I've developed, but also my discipline and curiosity.
 <br>
 ✼ In addition to learning Python, this journey also helped me become comfortable with using Git and GitHub — including version control, branching and committing.
   <br>
